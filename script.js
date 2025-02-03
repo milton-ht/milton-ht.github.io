@@ -53,8 +53,8 @@ document.getElementById('noBtn').addEventListener('click', function() {
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
           
             
-            //document.getElementById('siBtn').style.fontSize = '40px';
-            //document.getElementById('siBtn').style.padding = '20px 40px';
+            document.getElementById('siBtn').style.fontSize = '40px';
+            document.getElementById('siBtn').style.padding = '20px 40px';
        
             
            
@@ -73,8 +73,8 @@ document.getElementById('noBtn').addEventListener('click', function() {
             document.getElementById('sadGifContainer2').style.display = 'block';
 
             // Hacer que el botón "Sí" crezca
-            //document.getElementById('siBtn').style.fontSize = '50px';
-            //document.getElementById('siBtn').style.padding = '30px 50px';
+            document.getElementById('siBtn').style.fontSize = '45px';
+            document.getElementById('siBtn').style.padding = '25px 45px';
         
             noButtonState++;
             break;
@@ -88,8 +88,8 @@ document.getElementById('noBtn').addEventListener('click', function() {
             document.getElementById('sadGifContainer1').style.display = 'block';
 
             // Hacer que el botón "Sí" crezca
-            //document.getElementById('siBtn').style.fontSize = '60px';
-            //document.getElementById('siBtn').style.padding = '40px 60px';
+            document.getElementById('siBtn').style.fontSize = '57px';
+            document.getElementById('siBtn').style.padding = '27px 47px';
         
             noButtonState++;
             break;
@@ -100,8 +100,8 @@ document.getElementById('noBtn').addEventListener('click', function() {
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
-            //document.getElementById('siBtn').style.fontSize = '70px';
-            //document.getElementById('siBtn').style.padding = '50px 70px';
+            document.getElementById('siBtn').style.fontSize = '60px';
+            document.getElementById('siBtn').style.padding = '35px 50px';
         
             noButtonState++;
             break;
@@ -111,8 +111,8 @@ document.getElementById('noBtn').addEventListener('click', function() {
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
-           // document.getElementById('siBtn').style.fontSize = '80px';
-            //document.getElementById('siBtn').style.padding = '60px 80px';
+            document.getElementById('siBtn').style.fontSize = '65px';
+            document.getElementById('siBtn').style.padding = '42px 60px';
          
             noButtonState++;
             break;
@@ -122,8 +122,8 @@ document.getElementById('noBtn').addEventListener('click', function() {
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
-            //document.getElementById('siBtn').style.fontSize = '90px';
-           // document.getElementById('siBtn').style.padding = '70px 90px';
+            document.getElementById('siBtn').style.fontSize = '75px';
+           document.getElementById('siBtn').style.padding = '47px 65px';
 
             noButtonState++;
             break;
@@ -133,8 +133,8 @@ document.getElementById('noBtn').addEventListener('click', function() {
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
-           // document.getElementById('siBtn').style.fontSize = '100px';
-           // document.getElementById('siBtn').style.padding = '80px 100px';
+            document.getElementById('siBtn').style.fontSize = '80px';
+            document.getElementById('siBtn').style.padding = '50px 70px';
             
             noButtonState++;
             break;
@@ -144,8 +144,8 @@ document.getElementById('noBtn').addEventListener('click', function() {
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
-            //document.getElementById('siBtn').style.fontSize = '120px';
-           // document.getElementById('siBtn').style.padding = '90px 120px';
+            document.getElementById('siBtn').style.fontSize = '90px';
+            document.getElementById('siBtn').style.padding = '60px 80px';
   
             noButtonState++;
             break;
@@ -154,8 +154,8 @@ document.getElementById('noBtn').addEventListener('click', function() {
             document.getElementById('noBtn').innerHTML = 'por que eres terca?';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
-           // document.getElementById('siBtn').style.fontSize = '140px';
-           // document.getElementById('siBtn').style.padding = '100px 140px';
+            document.getElementById('siBtn').style.fontSize = '100px';
+            document.getElementById('siBtn').style.padding = '70px 90px';
        
             noButtonState++;
             break;
